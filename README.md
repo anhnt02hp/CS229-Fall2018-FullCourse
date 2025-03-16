@@ -3,6 +3,7 @@ This repository is used to learn AI
 
 # Set-up Environment
 name: cs229
+
 channels:
   - defaults
 dependencies:
