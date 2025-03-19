@@ -6,6 +6,7 @@ Here is documentations that related to CS229-Fall2018 Course:
 3. Understanding Some Funciton (Functions that confuse you)
 4. Main Note
 5. Syllabus of this course
+6. Reference Solutions (From [maxim5](https://github.com/maxim5/cs229-2018-autumn))
 
 All of the Problem Set Solution and new Knowledge will be updated continuously.
 
