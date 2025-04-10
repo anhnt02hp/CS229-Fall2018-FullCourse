@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="Update Reference Solution in exercise 2">
+      <change afterPath="$PROJECT_DIR$/Full_Problem_Set_Solution/PS2/exercise_6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anhnt02hp&quot;
+  }
+}</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anhnt02hp/CS229-Fall2018-FullCourse.git&quot;,
+    &quot;accountId&quot;: &quot;52be63c8-5e47-46c4-95ce-7c836b07e5d3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uV1meihdjvngb4A3gppQMjt7xe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="" />
+      <created>1742319089236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742319089236</updated>
+      <workItem from="1742319090477" duration="11000" />
+      <workItem from="1742319108987" duration="551000" />
+      <workItem from="1742319662613" duration="2261000" />
+      <workItem from="1742353878093" duration="406000" />
+      <workItem from="1742354292835" duration="1346000" />
+      <workItem from="1742361637301" duration="732000" />
+      <workItem from="1742654088464" duration="18000" />
+      <workItem from="1742833319179" duration="1887000" />
+      <workItem from="1742919191774" duration="6633000" />
+      <workItem from="1742925973252" duration="67000" />
+      <workItem from="1742976648214" duration="10478000" />
+      <workItem from="1743053225073" duration="44000" />
+      <workItem from="1743444788813" duration="386000" />
+      <workItem from="1744219695861" duration="119000" />
+      <workItem from="1744299731811" duration="181000" />
+      <workItem from="1744302620187" duration="8659000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update new absolute path of the exercise">
+      <option name="closed" value="true" />
+      <created>1742320001877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742320001877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test New restrict of github">
+      <option name="closed" value="true" />
+      <created>1742320650937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742320650937</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add new name of exercise 2">
+      <option name="closed" value="true" />
+      <created>1742320833198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742320833198</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update exercise 3">
+      <option name="closed" value="true" />
+      <created>1742833723888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742833723888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update exercise 3">
+      <option name="closed" value="true" />
+      <created>1742833901299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742833901299</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update exercise 1 and Done part c of exercise 2">
+      <option name="closed" value="true" />
+      <created>1742925797625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742925797625</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change dataset path in Reference Solution and update part d of exercise 2">
+      <option name="closed" value="true" />
+      <created>1742977820530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742977820530</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update full exercise 2 and fix some wrong of Reference Solution">
+      <option name="closed" value="true" />
+      <created>1742989399608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742989399608</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update Reference Solution in exercise 2">
+      <option name="closed" value="true" />
+      <created>1742989619138</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742989619138</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update new absolute path of the exercise" />
+    <MESSAGE value="Test New restrict of github" />
+    <MESSAGE value="Add new name of exercise 2" />
+    <MESSAGE value="Update exercise 3" />
+    <MESSAGE value="Update exercise 1 and Done part c of exercise 2" />
+    <MESSAGE value="Change dataset path in Reference Solution and update part d of exercise 2" />
+    <MESSAGE value="Update full exercise 2 and fix some wrong of Reference Solution" />
+    <MESSAGE value="Update Reference Solution in exercise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Reference Solution in exercise 2" />
+  </component>
+</project>
