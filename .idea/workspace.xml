@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="Do exercise 6 part a">
+    <list default="true" id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="Done exercise 6 part a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Full_Problem_Set_Solution/PS2/exercise_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Full_Problem_Set_Solution/PS2/exercise_6.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" afterDir="false" />
@@ -52,22 +52,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Tab-separated (TSV)_id&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;Tab-separated (TSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Tab-separated (TSV)_id",
+    "database.data.extractors.current.id": "Tab-separated (TSV)_id",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/anhnt02/Desktop/Out_6.tsv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,7 +103,9 @@
       <workItem from="1744302620187" duration="8931000" />
       <workItem from="1744380734863" duration="16434000" />
       <workItem from="1744440872343" duration="4551000" />
-      <workItem from="1744449741120" duration="599000" />
+      <workItem from="1744449741120" duration="7256000" />
+      <workItem from="1744559421855" duration="606000" />
+      <workItem from="1744644807238" duration="4664000" />
     </task>
     <task id="LOCAL-00001" summary="Update new absolute path of the exercise">
       <option name="closed" value="true" />
@@ -192,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744397155689</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Done exercise 6 part a">
+      <option name="closed" value="true" />
+      <created>1744450490847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744450490847</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +231,7 @@
     <MESSAGE value="Update Reference Solution in exercise 2" />
     <MESSAGE value="Update exercise 6" />
     <MESSAGE value="Do exercise 6 part a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do exercise 6 part a" />
+    <MESSAGE value="Done exercise 6 part a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done exercise 6 part a" />
   </component>
 </project>
