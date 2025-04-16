@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="Fit the model in exercise 6 part b">
+    <list default="true" id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="Predict the model exercise 6 part b">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Full_Problem_Set_Solution/PS2/exercise_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Full_Problem_Set_Solution/PS2/exercise_6.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" afterDir="false" />
@@ -107,7 +107,8 @@
       <workItem from="1744559421855" duration="606000" />
       <workItem from="1744644807238" duration="5673000" />
       <workItem from="1744717727434" duration="9970000" />
-      <workItem from="1744741534376" duration="967000" />
+      <workItem from="1744741534376" duration="1112000" />
+      <workItem from="1744791091523" duration="8686000" />
     </task>
     <task id="LOCAL-00001" summary="Update new absolute path of the exercise">
       <option name="closed" value="true" />
@@ -213,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744650385986</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Predict the model exercise 6 part b">
+      <option name="closed" value="true" />
+      <created>1744742630892</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744742630893</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +252,7 @@
     <MESSAGE value="Do exercise 6 part a" />
     <MESSAGE value="Done exercise 6 part a" />
     <MESSAGE value="Fit the model in exercise 6 part b" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fit the model in exercise 6 part b" />
+    <MESSAGE value="Predict the model exercise 6 part b" />
+    <option name="LAST_COMMIT_MESSAGE" value="Predict the model exercise 6 part b" />
   </component>
 </project>
