@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="Done Exercise 6 part c">
+    <list default="true" id="0bb4782e-2e96-4de9-88d7-34ecb0a56082" name="Changes" comment="Do exercise 6 part d">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Full_Problem_Set_Solution/PS2/exercise_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Full_Problem_Set_Solution/PS2/exercise_6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Reference_Solution/maxim5/PS2/PS2-6 Spam classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Tab-separated (TSV)_id&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;Tab-separated (TSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/anhnt02/Desktop/Out_6.tsv&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Tab-separated (TSV)_id",
+    "database.data.extractors.current.id": "Tab-separated (TSV)_id",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/anhnt02/Desktop/Out_6.tsv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
-        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -110,7 +109,8 @@
       <workItem from="1744741534376" duration="1112000" />
       <workItem from="1744791091523" duration="8686000" />
       <workItem from="1744811506808" duration="222000" />
-      <workItem from="1744811751463" duration="7467000" />
+      <workItem from="1744811751463" duration="8203000" />
+      <workItem from="1744822175491" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="Update new absolute path of the exercise">
       <option name="closed" value="true" />
@@ -232,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744816948728</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Do exercise 6 part d">
+      <option name="closed" value="true" />
+      <created>1744819812723</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744819812723</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +272,7 @@
     <MESSAGE value="Fit the model in exercise 6 part b" />
     <MESSAGE value="Predict the model exercise 6 part b" />
     <MESSAGE value="Done Exercise 6 part c" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Exercise 6 part c" />
+    <MESSAGE value="Do exercise 6 part d" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do exercise 6 part d" />
   </component>
 </project>
