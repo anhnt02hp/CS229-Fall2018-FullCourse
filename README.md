@@ -3,10 +3,11 @@
 Here is documentations that related to CS229-Fall2018 Course:
 1. Full Problem Set
 2. Full Problem Set Solution (Theory Problem & Coding Problem)
-3. Understanding Some Funciton (Functions that confuse you)
-4. Main Note
+3. Understanding Some Function (Functions that confuse you)
+4. Notes (Main notes and Auxiliary notes)
 5. Syllabus of this course
 6. Reference Solution (From [maxim5](https://github.com/maxim5/cs229-2018-autumn))
+7. Tests (Midterm Test/Final Test)
 
 All of the Problem Set Solution and new Knowledge will be updated continuously.
 
