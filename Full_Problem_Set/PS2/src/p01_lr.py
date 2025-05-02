@@ -1,6 +1,6 @@
 # Important note: you do not have to modify this file for your homework.
 
-import util
+import Full_Problem_Set.PS2.src.util as util
 import numpy as np
 
 
