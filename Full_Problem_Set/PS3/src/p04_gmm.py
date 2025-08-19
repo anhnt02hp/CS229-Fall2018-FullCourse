@@ -14,7 +14,7 @@ def main(is_semi_supervised, trial_num):
           .format('semi-supervised' if is_semi_supervised else 'unsupervised'))
 
     # Load dataset
-    train_path = os.path.join('..', 'data', 'ds3_train.csv')
+    train_path = os.path.join('..', 'data', 'ds4_train.csv')
     x, z = load_gmm_dataset(train_path)
     x_tilde = None
 
