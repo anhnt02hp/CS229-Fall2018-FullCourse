@@ -152,7 +152,7 @@ def plot_gmm_preds(x, z, with_supervision, plot_id):
         plt.scatter(x_1, x_2, marker='.', c=color, alpha=alpha)
 
     file_name = 'p03_pred{}_{}.pdf'.format('_ss' if with_supervision else '', plot_id)
-    save_path = os.path.join('output', file_name)
+    save_path = os.path.join('/home/anhnt02/Desktop/CS229-Fall2018-FullCourse/Full_Problem_Set_Solution/PS3/output', file_name)
     plt.savefig(save_path)
 
 
